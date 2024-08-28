@@ -1,10 +1,10 @@
 import React from "react";
-import JSQuestions from "./JSInterviewQuestions/JSQuestions";
+import { ComponentsQS_1 } from "./ReactJsInterviewsQuestions/index";
 
 function App() {
   return (
     <>
-      <JSQuestions />
+      <ComponentsQS_1 />
     </>
   );
 }
